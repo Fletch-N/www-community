@@ -5,7 +5,7 @@ title: PHP File Inclusion
 author: 
 contributors: Fletcher Nichols
 permalink: /vulnerabilities/PHP_File_Inclusion
-tags: vulnerability, PHP File Inclusion
+tags: ["vulnerability", "PHP", "File Inclusion", "PHP File Inclusion"]
 auto-migrated: 1
 
 ---
