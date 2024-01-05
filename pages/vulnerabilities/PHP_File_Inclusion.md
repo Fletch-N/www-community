@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: PHP File Inclusion
 author: 
-contributors: 
+contributors: Fletcher Nichols
 permalink: /vulnerabilities/PHP_File_Inclusion
 tags: vulnerability, PHP File Inclusion
 auto-migrated: 1
