@@ -51,13 +51,10 @@ TBD
 
 ## References
 
-Note: A reference to related [CWE](http://cwe.mitre.org/) or
-[CAPEC](http://capec.mitre.org/) article should be added when exists.
-Eg:
-
-  - [CWE 98](http://cwe.mitre.org/data/definitions/98.html).
-  - <http://www.link1.com>
-  - [Title for the link2](http://www.link2.com)
+  - [CWE 98: PHP Remote File Inclusion](http://cwe.mitre.org/data/definitions/98.html).
+  - [CWE 434: Unrestricted Upload of File with Dangerous Type](https://cwe.mitre.org/data/definitions/434.html)
+  - [CAPEC 193: PHP Remote File Inclusion](https://capec.mitre.org/data/definitions/193.html)
+  - [CAPEC 252: PHP Local File Inclusion](https://capec.mitre.org/data/definitions/252.html)
 
 \[\[Category:FIXME|add links
 
